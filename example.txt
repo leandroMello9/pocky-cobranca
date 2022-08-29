@@ -1,0 +1,38 @@
+
+// Models  = Classes.
+
+
+
+
+{
+	"data": [
+		{
+			"resumida_cobranca": {
+				"posicao": {
+					"data_posicao": "2022-08-29",
+					"liquidacoes": {
+						"valor": "12.2",
+						"quantidade": 1500
+					},
+					"posicao_atual": {
+						"valor": "123.45",
+						"quantidade": 300
+					},
+					"consolidado_vencer": [
+						{
+							"data_inicial": "2022-08-29",
+							"data_final": "2022-08-29",
+							"valor": "157.88",
+							"quantidade": 23
+						}
+					],
+					"vencidos": {
+						"data_final": "2022-08-29",
+						"valor": "123,14",
+						"quantidade": 1600
+					}
+				}
+			}
+		}
+	]
+}
